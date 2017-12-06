@@ -3,26 +3,6 @@
   "updateUrl":"http://ft.yba8.com",
   "branches":[
     {
-      "code":"1000",
-      "version":"1.0.0",
-      "status":"deprecated"
-    },
-    {
-      "code":"1001",
-      "version":"1.0.1",
-      "status":"release"
-    },
-    {
-      "code":"1002",
-      "version":"1.0.2",
-      "status":"release"
-    },
-    {
-      "code":"1003",
-      "version":"1.0.3",
-      "status":"release"
-    },
-    {
       "code":"1004",
       "version":"1.0.4",
       "status":"release"
@@ -30,6 +10,11 @@
     {
       "code":"1005",
       "version":"1.0.5",
+      "status":"release"
+    },
+    {
+      "code":"1006",
+      "version":"1.0.6",
       "status":"release"
     }
   ]
